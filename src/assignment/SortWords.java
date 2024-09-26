@@ -24,7 +24,6 @@ public class SortWords {
 
 		for (String w : words) {
 			System.out.println(w);
-
 		}
 	}
 
